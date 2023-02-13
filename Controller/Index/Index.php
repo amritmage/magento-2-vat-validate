@@ -1,6 +1,6 @@
 <?php
 
-namespace WebsTheWord\VatValidation\Controller\Index;
+namespace Magestar\VatValidate\Controller\Index;
 
 use Magento\Framework\Controller\ResultFactory;
 
